@@ -6,6 +6,9 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
+I'm a full stack software developer, I do contribute as much as I can to open source usually in Python.
+I was the founder of [Django Bogota](http://www.meetup.com/Django-Bogota/) and I'm a [Django Developer Member](https://www.djangoproject.com/foundation/developer-members/).
+
 -
 
 ### Guidelines
